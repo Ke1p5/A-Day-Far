@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player_P0
+  - Player_P1
+  - Walls_P0
+  - Walls_P1
+  - Stairs
+  - Grass
+  - Roads
+  - Vegetation
+  - Buildings
+  - Mountains
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 3339482217
+    locked: 0
+  - name: Platforms
+    uniqueID: 2709222737
+    locked: 0
+  - name: Characters_P0
+    uniqueID: 180833731
+    locked: 0
+  - name: Characters_P1
+    uniqueID: 3833804217
+    locked: 0
+  m_RenderingLayers:
+  - Default
